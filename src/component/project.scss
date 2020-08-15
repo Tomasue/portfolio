@@ -1,0 +1,13 @@
+.project-container {
+    .projects {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .project {
+        background-color: rgba(255, 255, 255, 0.05);
+
+    }
+}
